@@ -26,9 +26,5 @@
   "bugs": {
     "url": "https://github.com/cdev38399/nativescript-webview-interface/issues"
   },
-  "license": {
-    "type": "MIT",
-    "url": "https://github.com/cdev38399/nativescript-webview-interface/blob/master/LICENSE"
-  },
   "homepage": "https://github.com/cdev38399/nativescript-webview-interface"
 }
